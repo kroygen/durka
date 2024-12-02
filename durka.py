@@ -3,7 +3,7 @@ import yt_dlp
 import os
 
 # Вставьте ваш токен от BotFather
-BOT_TOKEN = "8090251052:AAHzUK9gVCMvl190CRRmg4pA53Sadt0FYdI"
+BOT_TOKEN = ""
 
 # Создаем бота и диспетчер
 bot = Bot(token=BOT_TOKEN)
